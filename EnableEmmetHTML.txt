@@ -1,0 +1,6 @@
+"emmet.includeLanguages": {
+  "javascript": "javascriptreact",
+  "typescript": "typescriptreact"
+}
+
+search emmet and add this to settings.json
